@@ -1,0 +1,11 @@
+<meta>
+
+  <!-- OOP needs to be enabled -->
+
+  <oop>true</oop>
+  
+  <!-- The OOP class needs to have its type "shared" -->
+
+  <script src = 'class-oop.lua' type = 'shared' cache = 'false' />
+
+</meta>
