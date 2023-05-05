@@ -1,9 +1,9 @@
 # OOP-Tutorial
-Util Lib of OOP
+**Util Lib of OOP**
 
 # Object Definition.
 
-Material or abstract thing that can be perceived by the senses and described through its characteristics, behaviors and current states.
+* Material or abstract thing that can be perceived by the senses and described through its characteristics, behaviors and current **states**.
 
 # What is Object?
 
@@ -17,18 +17,18 @@ draw, cover, uncover
 
 State.
 
-EVERY OBJECT HAS ATTRIBUTE, METHODS AND STATE.
+**EVERY OBJECT HAS ATTRIBUTE, METHODS AND STATE.**
 
-Instantiate = Generate object from a class;
+Instantiate = Generate **object** from a **class**;
 Class = "classification", planning of an object;
 
 Class:
-Defines common attributes and methods that will be shared by an object.
+* Defines common **attributes** and methods that will be shared by an **object**.
 
 Object:
-It is an instance of a class.
+* It is an **instance** of a **class**.
 
-# Example:
+### Example:
 
 ```lua
 local instance -- will be our object
