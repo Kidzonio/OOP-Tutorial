@@ -20,6 +20,7 @@ State.
 **EVERY OBJECT HAS ATTRIBUTE, METHODS AND STATE.**
 
 Instantiate = Generate **object** from a **class**;
+
 Class = "classification", planning of an object;
 
 Class:
