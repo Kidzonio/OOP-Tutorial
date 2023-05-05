@@ -1,13 +1,13 @@
 # OOP-Tutorial
 Util Lib of OOP
 
-#Object Definition.
+# Object Definition.
 
 Material or abstract thing that can be perceived by the senses and described through its characteristics, behaviors and current states.
 
-#What is Object?
+# What is Object?
 
-##Example using a pen:
+## Example using a pen:
 
 Attributes:
 color, load, capped, weight
@@ -28,7 +28,7 @@ Defines common attributes and methods that will be shared by an object.
 Object:
 It is an instance of a class.
 
-#Example:
+# Example:
 
 ```lua
 local instance -- will be our object
